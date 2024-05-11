@@ -1,7 +1,5 @@
-// Based on default examples from SparkFun_u-blox_GNSS
-
 #include <Wire.h> //Needed for I2C to GNSS
-
+#include <Streaming.h>
 #include <SparkFun_u-blox_GNSS_Arduino_Library.h> //http://librarymanager/All#SparkFun_u-blox_GNSS
 SFE_UBLOX_GNSS myGNSS;
 
@@ -10,8 +8,7 @@ long lastTime = 0; //Simple local timer. Limits amount if I2C traffic to u-blox 
 void setup()
 {
   Serial.begin(115200);
-  while (!Serial); //Wait for user to open terminal
-  Serial.println("SparkFun u-blox Example");
+  while (!Serial); 
 
   Wire.begin();
 
