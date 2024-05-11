@@ -1,4 +1,4 @@
-
+// Based on default examples from SparkFun_u-blox_GNSS
 
 #include <Wire.h> //Needed for I2C to GNSS
 
