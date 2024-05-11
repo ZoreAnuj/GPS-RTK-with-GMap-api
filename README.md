@@ -2,6 +2,11 @@
 
 This Python script provides real-time map visualization by reading GPS coordinates from a serial device and displaying them on a map fetched from the Google Static Maps API using OpenCV. The coordinates are plotted on the map, which updates dynamically as new data is received.
 
+## Results:
+
+![image](https://github.com/ZoreAnuj/GPS-RTK-Sparkfun-/assets/95142805/15adb7e0-8cdb-4d76-8eb3-fa3e4bb82a18)
+
+
 ## Setup (Arduino & Sensor)
 
 # Arduino (SDA & SCL connections)
