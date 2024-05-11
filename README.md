@@ -6,11 +6,13 @@ This Python script provides real-time map visualization by reading GPS coordinat
 
 # Arduino (SDA & SCL connections)
 
-![WhatsApp Image 2024-05-11 at 14 33 56_aaec9670](https://github.com/ZoreAnuj/GPS-RTK-Sparkfun-/assets/95142805/520ab4ab-4bf2-4e54-b800-635250e664e7)
+![WhatsApp Image 2024-05-11 at 14 33 56_aaec9670](https://github.com/ZoreAnuj/GPS-RTK-Sparkfun-/assets/95142805/3c446e95-d004-4406-a0cb-b44a40316a63)
+
 
 # Antenna and Tripod
 
-![WhatsApp Image 2024-05-11 at 14 33 55_aea2ba09](https://github.com/ZoreAnuj/GPS-RTK-Sparkfun-/assets/95142805/4e61700c-4985-4442-8c2c-b4ae63c848d1)
+![WhatsApp Image 2024-05-11 at 14 33 55_aea2ba09](https://github.com/ZoreAnuj/GPS-RTK-Sparkfun-/assets/95142805/35a5962a-1e98-4e91-80d6-54abc5074381)
+
 
 ## Requirements
 
